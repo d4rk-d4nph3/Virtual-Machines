@@ -6,4 +6,4 @@ Due to GitHub's size limitation, this repo only contains the metadata of the Vir
 ## Virtual Machines
 
 * Kanjante
-![Alt text](kanjange.jpg?raw=true "Title")
+<img width="725" alt="image" src="https://user-images.githubusercontent.com/61026070/79123903-e48c2400-7dba-11ea-8ad6-497f29d5a256.png">
